@@ -3,4 +3,7 @@
 2.  Decision Tree Classifier in Python using Scikit-learn
     http://benalexkeen.com/decision-tree-classifier-in-python-using-scikit-learn/
     https://medium.com/coinmonks/what-is-entropy-and-why-information-gain-is-matter-4e85d46d2f01
+3.  Метрики в задачах машинного обучения
+    https://habr.com/en/company/ods/blog/328372/
+   
     
