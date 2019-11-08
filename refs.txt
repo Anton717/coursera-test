@@ -9,5 +9,9 @@
     https://mlbootcamp.ru/article/tutorial/
 5.  Coursera ML
     https://www.coursera.org/specializations/machine-learning-data-analysis
-   
+6.  Работа с датой и временем в Python
+    https://python-scripts.com/datetime-time-python
+7.  Work With Dates In Pandas Like a Pro
+    https://medium.com/datadriveninvestor/how-to-work-with-dates-in-pandas-like-a-pro-a84055a4819d
+
     
