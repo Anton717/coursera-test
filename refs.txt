@@ -5,5 +5,9 @@
     https://medium.com/coinmonks/what-is-entropy-and-why-information-gain-is-matter-4e85d46d2f01
 3.  Метрики в задачах машинного обучения
     https://habr.com/en/company/ods/blog/328372/
+4.  Руководство для начинающих
+    https://mlbootcamp.ru/article/tutorial/
+5.  Coursera ML
+    https://www.coursera.org/specializations/machine-learning-data-analysis
    
     
